@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "PlayerSpritesheet.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 900,
+				"h": 210
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Player.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 450,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 450,
+						"h": 210
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 450,
+						"h": 210
+					}
+				},
+				{
+					"filename": "PlayerCrouched.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 450,
+						"h": 210
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 450,
+						"h": 210
+					},
+					"frame": {
+						"x": 450,
+						"y": 0,
+						"w": 450,
+						"h": 210
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:73cc6bea9096414dce3001bd1e8a863e:dc7ef48342084cc3e2aa056257136243:ccfbef6471d61dbb54de49d66753e63b$"
+	}
+}
